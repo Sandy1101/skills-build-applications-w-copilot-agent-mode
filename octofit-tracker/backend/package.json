@@ -1,0 +1,13 @@
+{
+  "name": "octofit-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.9.0"
+  }
+}
